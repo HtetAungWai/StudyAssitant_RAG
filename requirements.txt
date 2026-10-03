@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+python-pptx
+python-docx
+chromadb
+python-dotenv
+google-genai
+ddgs
+requests
+trafilatura
